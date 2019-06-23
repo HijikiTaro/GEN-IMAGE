@@ -1,6 +1,9 @@
 # GENでいろいろ画像を生成してみる
 DCGANを使用して自分が生成してみたい画像を生成してみる。
-  
+
+# TODO
+D LossとG Lossを取得する
+
 # Setup
 実行環境：Google Colaboratory
 
