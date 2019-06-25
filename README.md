@@ -5,18 +5,18 @@ DCGANを使用して自分が生成してみたい画像を生成してみる。
 D LossとG Lossを取得する
 
 # Setup
-実行環境：Google Colaboratory
-
-ランタイム：python3 GPU
-
+実行環境：Google Colaboratory  
+設定：  
+　ランタイム：python3 GPU  
+  
 # Usage
-
+  
 1. 生成したい画像を収集(Google image downloador etc)
 1. 収集した画像をリサイズ(128×128)
 1. githubからcloneしたコードを実行(rarなどのdataset解凍は今回は不要)
 
 実装手順：
-https://github.com/HijikiTaro/GAN-IMAGE/blob/master/***.ipynb
+https://github.com/HijikiTaro/GAN-IMAGE/blob/master/gen_image.ipynb
 
 model構造：
 
