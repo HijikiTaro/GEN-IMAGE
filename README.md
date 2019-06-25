@@ -25,7 +25,7 @@ runtime：python3 GPU
 ![Discriminator](https://github.com/HijikiTaro/GAN-IMAGE/blob/master/image/Dis.png "Discriminator")
 
 ## Code
-https://github.com/HijikiTaro/GAN-IMAGE/gen_image.ipynb
+https://github.com/HijikiTaro/GEN-IMAGE/blob/master/gen_image.ipynb
 
 
 ## Result
